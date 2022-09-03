@@ -1,6 +1,7 @@
 ---
 title: BlobBuilder
-slug: Web/API/BlobBuilder
+slug: conflicting/Web/API/Blob
+original_slug: Web/API/BlobBuilder
 ---
 {{ deprecated_header() }}
 

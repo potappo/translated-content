@@ -3626,6 +3626,7 @@
 /fr/docs/Web/API/AnimationEvent.elapsedTime	/fr/docs/Web/API/AnimationEvent/elapsedTime
 /fr/docs/Web/API/AnimationEvent.pseudoElement	/fr/docs/Web/API/AnimationEvent/pseudoElement
 /fr/docs/Web/API/AudioContext/createGain	/fr/docs/Web/API/BaseAudioContext/createGain
+/fr/docs/Web/API/BlobBuilder	/fr/docs/conflicting/Web/API/Blob
 /fr/docs/Web/API/ByteString	/fr/docs/Web/JavaScript/Reference/Global_Objects/String
 /fr/docs/Web/API/CSSMatrix	/fr/docs/Web/API/DOMMatrix
 /fr/docs/Web/API/Canvas_API/A_basic_ray-caster	/fr/docs/orphaned/Web/API/Canvas_API/A_basic_ray-caster
@@ -5000,6 +5001,7 @@
 /fr/docs/Web/JavaScript/Reference/Global_Objects/String/prototype	/fr/docs/Web/JavaScript/Reference/Global_Objects/String
 /fr/docs/Web/JavaScript/Reference/Global_Objects/String/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/String/toString
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toString
+/fr/docs/Web/JavaScript/Reference/Global_Objects/WeakMap/clear	/fr/docs/conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features
 /fr/docs/Web/JavaScript/Reference/Global_Objects/WeakMap/prototype	/fr/docs/Web/JavaScript/Reference/Global_Objects/WeakMap
 /fr/docs/Web/JavaScript/Reference/Global_Objects/WeakSet/prototype	/fr/docs/Web/JavaScript/Reference/Global_Objects/WeakSet
 /fr/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Global/prototype	/fr/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Global
@@ -5685,7 +5687,7 @@
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/Uint8Array	/fr/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/Uint8ClampedArray	/fr/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/WeakMap	/fr/docs/Web/JavaScript/Reference/Global_Objects/WeakMap
-/fr/docs/Web/JavaScript/Reference/Objets_globaux/WeakMap/clear	/fr/docs/Web/JavaScript/Reference/Global_Objects/WeakMap/clear
+/fr/docs/Web/JavaScript/Reference/Objets_globaux/WeakMap/clear	/fr/docs/conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/WeakMap/delete	/fr/docs/Web/JavaScript/Reference/Global_Objects/WeakMap/delete
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/WeakMap/get	/fr/docs/Web/JavaScript/Reference/Global_Objects/WeakMap/get
 /fr/docs/Web/JavaScript/Reference/Objets_globaux/WeakMap/has	/fr/docs/Web/JavaScript/Reference/Global_Objects/WeakMap/has

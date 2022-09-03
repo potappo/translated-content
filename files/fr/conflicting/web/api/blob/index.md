@@ -1,7 +1,8 @@
 ---
 title: BlobBuilder
-slug: Web/API/BlobBuilder
+slug: conflicting/Web/API/Blob
 translation_of: Web/API/BlobBuilder
+original_slug: Web/API/BlobBuilder
 browser-compat: api.BlobBuilder
 ---
 {{APIRef("File API")}}{{deprecated_header}}

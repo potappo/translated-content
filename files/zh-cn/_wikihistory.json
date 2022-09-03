@@ -5598,10 +5598,6 @@
     "modified": "2020-10-15T21:06:53.138Z",
     "contributors": ["RainSlide", "li9269391", "xc2", "ziyunfei", "ethertank"]
   },
-  "Web/API/BlobBuilder": {
-    "modified": "2019-08-14T07:08:22.933Z",
-    "contributors": ["ziyunfei"]
-  },
   "Web/API/Bluetooth": {
     "modified": "2019-03-23T22:29:44.172Z",
     "contributors": ["githubyangwei", "yellowkingdom", "Joeny", "wth"]
@@ -30029,10 +30025,6 @@
       "ziyunfei"
     ]
   },
-  "Web/JavaScript/Reference/Global_Objects/WeakMap/clear": {
-    "modified": "2019-03-23T22:23:38.007Z",
-    "contributors": ["teoli", "xgqfrms-GitHub", "xx1124961758", "xdsnet"]
-  },
   "Web/JavaScript/Reference/Global_Objects/WeakMap/delete": {
     "modified": "2019-03-23T23:13:54.509Z",
     "contributors": ["SphinxKnight", "teoli", "ziyunfei"]
@@ -33374,6 +33366,10 @@
     "modified": "2020-04-23T03:45:20.732Z",
     "contributors": ["biqing", "April421", "xgqfrms"]
   },
+  "conflicting/Web/API/Blob": {
+    "modified": "2019-08-14T07:08:22.933Z",
+    "contributors": ["ziyunfei"]
+  },
   "conflicting/Web/API/Canvas_API/Tutorial": {
     "modified": "2019-03-23T23:20:14.159Z",
     "contributors": ["ziyunfei", "wanglingzhi"]
@@ -33806,6 +33802,10 @@
   "conflicting/Web/JavaScript/Guide/Regular_Expressions/Assertions": {
     "modified": "2020-10-30T11:36:06.394Z",
     "contributors": ["phone-burner"]
+  },
+  "conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features": {
+    "modified": "2019-03-23T22:23:38.007Z",
+    "contributors": ["teoli", "xgqfrms-GitHub", "xx1124961758", "xdsnet"]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/ArrayBuffer": {
     "modified": "2020-10-15T21:37:49.333Z",

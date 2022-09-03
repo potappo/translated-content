@@ -14885,10 +14885,6 @@
       "hellboy81"
     ]
   },
-  "Web/JavaScript/Reference/Global_Objects/WeakMap/clear": {
-    "modified": "2019-03-23T22:45:00.856Z",
-    "contributors": ["teoli", "WispProxy", "casfcitizen"]
-  },
   "Web/JavaScript/Reference/Global_Objects/WeakMap/delete": {
     "modified": "2019-03-23T22:44:55.757Z",
     "contributors": ["SphinxKnight", "casfcitizen"]
@@ -16993,6 +16989,10 @@
   "conflicting/Web/JavaScript/JavaScript_technologies_overview": {
     "modified": "2020-03-12T19:37:58.256Z",
     "contributors": ["nnragmailcom", "fscholz", "teoli", "uleming"]
+  },
+  "conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features": {
+    "modified": "2019-03-23T22:45:00.856Z",
+    "contributors": ["teoli", "WispProxy", "casfcitizen"]
   },
   "conflicting/Web/JavaScript/Reference/Errors/Unexpected_type": {
     "modified": "2020-03-12T19:48:40.635Z",

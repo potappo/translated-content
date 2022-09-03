@@ -1,6 +1,6 @@
 ---
 title: BlobBuilder
-slug: Web/API/BlobBuilder
+slug: conflicting/Web/API/Blob
 page-type: web-api-interface
 tags:
   - API
@@ -9,8 +9,9 @@ tags:
   - File API
   - 非推奨
   - リファレンス
-browser-compat: api.BlobBuilder
 translation_of: Web/API/BlobBuilder
+original_slug: Web/API/BlobBuilder
+browser-compat: api.BlobBuilder
 ---
 {{APIRef("File API")}}{{ deprecated_header}}
 
