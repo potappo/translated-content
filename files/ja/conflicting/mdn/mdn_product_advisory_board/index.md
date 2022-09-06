@@ -1,12 +1,13 @@
 ---
 title: 製品諮問委員会
-slug: MDN/MDN_Product_Advisory_Board/Members
+slug: conflicting/MDN/MDN_Product_Advisory_Board
 tags:
   - MDN
   - メンバー
   - PAB
   - 製品諮問委員会
 translation_of: MDN/MDN_Product_Advisory_Board/Members
+original_slug: MDN/MDN_Product_Advisory_Board/Members
 ---
 {{MDNSidebar}}
 
