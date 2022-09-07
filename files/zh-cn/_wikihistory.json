@@ -5990,10 +5990,6 @@
       "ice-i-snow"
     ]
   },
-  "Web/API/CanvasRenderingContext2D/drawWindow": {
-    "modified": "2020-11-07T01:40:12.260Z",
-    "contributors": ["liguorain", "ice-i-snow"]
-  },
   "Web/API/CanvasRenderingContext2D/ellipse": {
     "modified": "2020-10-15T21:36:26.633Z",
     "contributors": ["laampui", "lzpong", "leunpha", "ice-i-snow"]
@@ -33369,6 +33365,10 @@
   "conflicting/Web/API/Blob": {
     "modified": "2019-08-14T07:08:22.933Z",
     "contributors": ["ziyunfei"]
+  },
+  "conflicting/Web/API/CanvasRenderingContext2D/drawImage": {
+    "modified": "2020-11-07T01:40:12.260Z",
+    "contributors": ["liguorain", "ice-i-snow"]
   },
   "conflicting/Web/API/Canvas_API/Tutorial": {
     "modified": "2019-03-23T23:20:14.159Z",
