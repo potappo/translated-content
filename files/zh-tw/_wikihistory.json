@@ -4978,10 +4978,6 @@
     "modified": "2020-10-15T21:53:17.228Z",
     "contributors": ["jackblackevo", "xsfishxs"]
   },
-  "Web/JavaScript/Shells": {
-    "modified": "2020-03-12T19:45:29.748Z",
-    "contributors": ["JianHuaHe"]
-  },
   "Web/JavaScript/Typed_arrays": {
     "modified": "2020-03-12T19:36:15.816Z",
     "contributors": [
@@ -5180,6 +5176,10 @@
   "conflicting/Web/JavaScript/Guide/Working_with_Objects": {
     "modified": "2019-01-16T14:44:03.755Z",
     "contributors": ["teoli", "happysadman"]
+  },
+  "conflicting/Web/JavaScript/JavaScript_technologies_overview": {
+    "modified": "2020-03-12T19:45:29.748Z",
+    "contributors": ["JianHuaHe"]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects/ArrayBuffer": {
     "modified": "2019-03-23T22:31:10.924Z",

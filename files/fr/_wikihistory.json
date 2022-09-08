@@ -26558,17 +26558,6 @@
     "modified": "2020-10-15T21:51:41.115Z",
     "contributors": ["SphinxKnight"]
   },
-  "Web/JavaScript/Shells": {
-    "modified": "2020-03-12T19:35:39.467Z",
-    "contributors": [
-      "SphinxKnight",
-      "teoli",
-      "Goofy",
-      "wakka27",
-      "ziyunfei",
-      "julienw"
-    ]
-  },
   "Web/JavaScript/Typed_arrays": {
     "modified": "2020-10-15T21:27:32.382Z",
     "contributors": ["SphinxKnight", "rockshappy", "rouflak", "teoli"]
@@ -28167,6 +28156,17 @@
   "conflicting/Web/Accessibility/ARIA": {
     "modified": "2019-01-16T21:44:15.383Z",
     "contributors": ["Waxaal", "julianosilvaa"]
+  },
+  "conflicting/Web/JavaScript/JavaScript_technologies_overview": {
+    "modified": "2020-03-12T19:35:39.467Z",
+    "contributors": [
+      "SphinxKnight",
+      "teoli",
+      "Goofy",
+      "wakka27",
+      "ziyunfei",
+      "julienw"
+    ]
   },
   "conflicting/Web/JavaScript/Reference/Deprecated_and_obsolete_features": {
     "modified": "2020-10-15T21:30:46.863Z",
