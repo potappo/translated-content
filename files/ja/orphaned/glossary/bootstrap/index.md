@@ -1,6 +1,6 @@
 ---
 title: Bootstrap
-slug: Glossary/Bootstrap
+slug: orphaned/Glossary/Bootstrap
 tags:
   - Bootstrap
   - CSS
@@ -9,6 +9,7 @@ tags:
   - フレームワーク
   - 用語集
 translation_of: Glossary/Bootstrap
+original_slug: Glossary/Bootstrap
 ---
 Bootstrap はレスポンシブのウェブサイトを早く作るための無料のオープンソース {{Glossary("HTML")}}、CSS および {{Glossary("JavaScript")}} のフレームワークです。
 

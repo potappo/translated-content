@@ -146,10 +146,6 @@
     "modified": "2019-03-23T22:11:57.041Z",
     "contributors": ["jackblackevo", "vintif"]
   },
-  "Glossary/Bootstrap": {
-    "modified": "2020-05-23T17:07:57.268Z",
-    "contributors": ["iigmir"]
-  },
   "Glossary/Browser": {
     "modified": "2019-03-23T22:54:30.687Z",
     "contributors": ["iigmir", "irvinfly"]
@@ -5212,6 +5208,10 @@
   "conflicting/Web/JavaScript/Reference/Global_Objects/String_6fa58bba0570d663099f0ae7ae8883ab": {
     "modified": "2019-03-23T22:48:01.923Z",
     "contributors": ["Shiyou"]
+  },
+  "orphaned/Glossary/Bootstrap": {
+    "modified": "2020-05-23T17:07:57.268Z",
+    "contributors": ["iigmir"]
   },
   "orphaned/Glossary/DHTML": {
     "modified": "2019-03-23T23:05:14.683Z",
