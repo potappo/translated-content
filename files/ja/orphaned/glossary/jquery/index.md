@@ -1,11 +1,12 @@
 ---
 title: jQuery
-slug: Glossary/jQuery
+slug: orphaned/Glossary/jQuery
 tags:
   - Glossary
   - JQuery
   - JavaScript
 translation_of: Glossary/jQuery
+original_slug: Glossary/jQuery
 ---
 **jQuery** は {{Glossary("JavaScript")}} {{Glossary("Library", "ライブラリー")}} であり、{{Glossary("DOM")}} 操作を簡単にすること、{{Glossary("AJAX")}} 呼び出し、{{Glossary("Event", "イベント")}} ハンドリングに注力しています。
 

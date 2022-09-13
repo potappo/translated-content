@@ -346,10 +346,6 @@
     "modified": "2019-03-23T22:58:43.329Z",
     "contributors": ["loella16", "Goofy", "htindon"]
   },
-  "Glossary/Boot2Gecko": {
-    "modified": "2019-03-23T22:44:37.220Z",
-    "contributors": ["loella16", "Bat"]
-  },
   "Glossary/Breadcrumb": {
     "modified": "2020-09-25T06:01:58.166Z",
     "contributors": ["Voulto"]
@@ -2050,10 +2046,6 @@
   "Glossary/https": {
     "modified": "2019-03-23T22:41:38.751Z",
     "contributors": ["SphinxKnight", "loella16", "Porkepix", "xdelatour"]
-  },
-  "Glossary/jQuery": {
-    "modified": "2019-03-18T21:44:06.026Z",
-    "contributors": ["loella16"]
   },
   "Glossary/jpeg": {
     "modified": "2019-03-23T22:42:05.422Z",
@@ -28117,6 +28109,10 @@
       "dattaz"
     ]
   },
+  "conflicting/Glossary/Firefox_OS": {
+    "modified": "2019-03-23T22:44:37.220Z",
+    "contributors": ["loella16", "Bat"]
+  },
   "conflicting/MDN/Writing_guidelines": {
     "modified": "2020-09-30T15:29:18.429Z",
     "contributors": ["chrisdavidmills", "wbamberg", "Porkepix", "thbil"]
@@ -28194,6 +28190,10 @@
   "orphaned/Glossary/GIJ": {
     "modified": "2019-01-16T21:52:08.705Z",
     "contributors": ["xdelatour"]
+  },
+  "orphaned/Glossary/jQuery": {
+    "modified": "2019-03-18T21:44:06.026Z",
+    "contributors": ["loella16"]
   },
   "orphaned/Mozilla/Add-ons/WebExtensions/Debugging_(before_Firefox_50)": {
     "modified": "2019-03-18T21:02:43.036Z",

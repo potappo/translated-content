@@ -1571,10 +1571,6 @@
     "modified": "2019-06-30T04:47:58.467Z",
     "contributors": ["ch4zzzzz", "micblo"]
   },
-  "Glossary/jQuery": {
-    "modified": "2020-05-09T23:15:26.173Z",
-    "contributors": ["RainSlide", "yshaojun", "iigmir"]
-  },
   "Glossary/jpeg": {
     "modified": "2020-07-21T12:13:23.651Z",
     "contributors": ["wr20060926", "zhangchen", "micblo"]
@@ -34891,6 +34887,10 @@
   "orphaned/Glossary/Dynamic_programming_language": {
     "modified": "2020-07-10T12:09:06.736Z",
     "contributors": ["JackyJnirvana", "RainSlide", "aimiy", "lukesomnus"]
+  },
+  "orphaned/Glossary/jQuery": {
+    "modified": "2020-05-09T23:15:26.173Z",
+    "contributors": ["RainSlide", "yshaojun", "iigmir"]
   },
   "orphaned/Glossary_of_translation": {
     "modified": "2019-03-23T23:33:18.884Z",

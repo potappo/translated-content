@@ -630,10 +630,6 @@
     "modified": "2019-03-18T21:42:32.887Z",
     "contributors": ["Rocker"]
   },
-  "Glossary/jQuery": {
-    "modified": "2020-05-23T15:08:04.982Z",
-    "contributors": ["iigmir"]
-  },
   "Glossary/jpeg": {
     "modified": "2019-03-18T21:44:36.385Z",
     "contributors": ["iigmir"]
@@ -5216,6 +5212,10 @@
   "orphaned/Glossary/DHTML": {
     "modified": "2019-03-23T23:05:14.683Z",
     "contributors": ["wildsky"]
+  },
+  "orphaned/Glossary/jQuery": {
+    "modified": "2020-05-23T15:08:04.982Z",
+    "contributors": ["iigmir"]
   },
   "orphaned/Web/API/GlobalEventHandlers": {
     "modified": "2019-03-23T22:31:11.882Z",
