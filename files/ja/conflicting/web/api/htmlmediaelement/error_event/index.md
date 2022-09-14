@@ -1,6 +1,6 @@
 ---
 title: HTMLMediaElement.onerror
-slug: Web/API/HTMLMediaElement/onerror
+slug: conflicting/Web/API/HTMLMediaElement/error_event
 page-type: web-api-instance-property
 tags:
   - API
@@ -14,8 +14,9 @@ tags:
   - Reference
   - Video
   - onerror
-browser-compat: api.HTMLMediaElement.onerror
 translation_of: Web/API/HTMLMediaElement/onerror
+original_slug: Web/API/HTMLMediaElement/onerror
+browser-compat: api.HTMLMediaElement.onerror
 ---
 {{APIRef("HTML DOM")}}
 

@@ -9801,10 +9801,6 @@
     "modified": "2020-10-15T22:18:29.868Z",
     "contributors": ["Wind1808"]
   },
-  "Web/API/HTMLMediaElement/onerror": {
-    "modified": "2020-10-15T22:18:26.930Z",
-    "contributors": ["Wind1808"]
-  },
   "Web/API/HTMLMediaElement/pause": {
     "modified": "2020-10-15T22:18:39.265Z",
     "contributors": ["Wind1808"]
@@ -31333,6 +31329,10 @@
   "conflicting/Web/API/HTMLMediaElement/canplaythrough_event": {
     "modified": "2020-10-28T06:55:40.744Z",
     "contributors": ["mpcjazz"]
+  },
+  "conflicting/Web/API/HTMLMediaElement/error_event": {
+    "modified": "2020-10-15T22:18:26.930Z",
+    "contributors": ["Wind1808"]
   },
   "conflicting/Web/API/HTMLMediaElement/playing_event": {
     "modified": "2020-10-15T22:31:36.004Z",
