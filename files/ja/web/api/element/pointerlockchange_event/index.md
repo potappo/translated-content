@@ -1,6 +1,6 @@
 ---
 title: 'Document: pointerlockchange イベント'
-slug: Web/API/Document/pointerlockchange_event
+slug: Web/API/Element/pointerlockchange_event
 tags:
   - Document
   - Event
@@ -10,6 +10,7 @@ tags:
   - イベント
   - ウェブ
 translation_of: Web/API/Document/pointerlockchange_event
+original_slug: Web/API/Document/pointerlockchange_event
 ---
 {{APIRef}}
 

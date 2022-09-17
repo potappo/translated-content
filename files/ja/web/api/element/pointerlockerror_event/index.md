@@ -1,6 +1,6 @@
 ---
 title: 'Document: pointerlockerror イベント'
-slug: Web/API/Document/pointerlockerror_event
+slug: Web/API/Element/pointerlockerror_event
 tags:
   - Document
   - Event
@@ -11,6 +11,7 @@ tags:
   - ウェブ
   - ポインター
 translation_of: Web/API/Document/pointerlockerror_event
+original_slug: Web/API/Document/pointerlockerror_event
 ---
 {{APIRef}}
 
