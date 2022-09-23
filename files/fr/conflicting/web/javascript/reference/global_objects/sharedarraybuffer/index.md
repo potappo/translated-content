@@ -1,7 +1,8 @@
 ---
 title: Changements prévus à propos de la mémoire partagée
+slug: conflicting/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer
 translation_of: Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer/Planned_changes
-slug: Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer/Planned_changes
+original_slug: Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer/Planned_changes
 ---
 {{JSRef}}
 
