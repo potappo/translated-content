@@ -21490,10 +21490,6 @@
     "modified": "2020-10-29T09:53:30.177Z",
     "contributors": ["JNa0"]
   },
-  "Web/HTTP/Headers/Content-Security-Policy/navigate-to": {
-    "modified": "2020-11-05T08:46:21.988Z",
-    "contributors": ["JNa0"]
-  },
   "Web/HTTP/Headers/Content-Security-Policy/object-src": {
     "modified": "2020-10-29T12:50:10.529Z",
     "contributors": ["JNa0"]
@@ -28148,6 +28144,10 @@
   "conflicting/Web/Accessibility/ARIA": {
     "modified": "2019-01-16T21:44:15.383Z",
     "contributors": ["Waxaal", "julianosilvaa"]
+  },
+  "conflicting/Web/HTTP/Headers/Content-Security-Policy": {
+    "modified": "2020-11-05T08:46:21.988Z",
+    "contributors": ["JNa0"]
   },
   "conflicting/Web/JavaScript/JavaScript_technologies_overview": {
     "modified": "2020-03-12T19:35:39.467Z",

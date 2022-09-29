@@ -1,7 +1,8 @@
 ---
 title: 'CSP : navigate-to'
-slug: Web/HTTP/Headers/Content-Security-Policy/navigate-to
+slug: conflicting/Web/HTTP/Headers/Content-Security-Policy
 translation_of: Web/HTTP/Headers/Content-Security-Policy/navigate-to
+original_slug: Web/HTTP/Headers/Content-Security-Policy/navigate-to
 browser-compat: http.headers.csp.Content-Security-Policy.navigate-to
 ---
 {{HTTPSidebar}}
