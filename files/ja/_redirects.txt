@@ -1880,6 +1880,7 @@
 /ja/docs/Glossary/DHTML	/ja/docs/orphaned/Glossary/DHTML
 /ja/docs/Glossary/DTD	/ja/docs/Glossary/Doctype
 /ja/docs/Glossary/Dynamic_programming_language	/ja/docs/orphaned/Glossary/Dynamic_programming_language
+/ja/docs/Glossary/Empty_element	/ja/docs/Glossary/Void_element
 /ja/docs/Glossary/GIJ	/ja/docs/orphaned/Glossary/GIJ
 /ja/docs/Glossary/Global_attribute	/ja/docs/Web/HTML/Global_attributes
 /ja/docs/Glossary/Header	/ja/docs/Glossary/HTTP_header

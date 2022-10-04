@@ -1,12 +1,12 @@
 ---
 title: Élément vide
-slug: Glossary/Empty_element
+slug: Glossary/Void_element
 tags:
   - Encodage
   - Glossaire
   - Intermédiaire
 translation_of: Glossary/Empty_element
-original_slug: Glossaire/Element_vide
+original_slug: Glossary/Empty_element
 ---
 Un **élément vide** (_empty element_ en anglais) est un {{Glossary("Element","élément")}} HTML, SVG, ou MathML qui **ne peut pas** avoir de nœud enfant (que ce soit un autre élément ou du texte).
 

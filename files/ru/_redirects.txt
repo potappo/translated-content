@@ -90,9 +90,10 @@
 /ru/docs/Glossary/Bootstrap	/ru/docs/orphaned/Glossary/Bootstrap
 /ru/docs/Glossary/Bézier_curve	/ru/docs/Glossary/Bezier_curve
 /ru/docs/Glossary/Dynamic_programming_language	/ru/docs/orphaned/Glossary/Dynamic_programming_language
+/ru/docs/Glossary/Empty_element	/ru/docs/Glossary/Void_element
 /ru/docs/Glossary/Symbol	/ru/docs/conflicting/Web/JavaScript/Reference/Global_Objects/Symbol
 /ru/docs/Glossary/jQuery	/ru/docs/orphaned/Glossary/jQuery
-/ru/docs/Glossary/пустой_элемент	/ru/docs/Glossary/Empty_element
+/ru/docs/Glossary/пустой_элемент	/ru/docs/Glossary/Void_element
 /ru/docs/HTML	/ru/docs/Web/HTML
 /ru/docs/HTML/Canvas	/ru/docs/Web/API/Canvas_API
 /ru/docs/HTML/Canvas/Рисование_графики_с_помощью_Canvas	/ru/docs/Web/API/Canvas_API/Tutorial
@@ -954,7 +955,7 @@
 /ru/docs/Словарь/Dynamic_programming_language	/ru/docs/orphaned/Glossary/Dynamic_programming_language
 /ru/docs/Словарь/ECMA	/ru/docs/Glossary/ECMA
 /ru/docs/Словарь/ECMAScript	/ru/docs/Glossary/ECMAScript
-/ru/docs/Словарь/Empty_element	/ru/docs/Glossary/Empty_element
+/ru/docs/Словарь/Empty_element	/ru/docs/Glossary/Void_element
 /ru/docs/Словарь/Encapsulation	/ru/docs/Glossary/Encapsulation
 /ru/docs/Словарь/Entity_header	/ru/docs/Glossary/Entity_header
 /ru/docs/Словарь/Expando	/ru/docs/Glossary/Expando
@@ -1107,7 +1108,7 @@
 /ru/docs/Словарь/Тег	/ru/docs/Glossary/Tag
 /ru/docs/Словарь/Функция	/ru/docs/Glossary/Function
 /ru/docs/Словарь/Элемент	/ru/docs/Glossary/Element
-/ru/docs/Словарь/пустой_элемент	/ru/docs/Glossary/Empty_element
+/ru/docs/Словарь/пустой_элемент	/ru/docs/Glossary/Void_element
 /ru/docs/Словарь/функция_обратного_вызова	/ru/docs/Glossary/Callback_function
 /ru/docs/Словарь/хеш	/ru/docs/Glossary/hash
 /ru/docs/Справочник_по_JavaScript_1.5	/ru/docs/Web/JavaScript/Reference
