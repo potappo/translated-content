@@ -10172,10 +10172,6 @@
       "Lambrusco.pro"
     ]
   },
-  "Web/Guide/HTML/Editable_content": {
-    "modified": "2019-03-18T21:32:40.829Z",
-    "contributors": ["warsan"]
-  },
   "Web/Guide/Parsing_and_serializing_XML": {
     "modified": "2020-10-11T12:29:17.772Z",
     "contributors": ["Akhat", "bogpok"]
@@ -16900,6 +16896,10 @@
   "conflicting/Web/HTML/Element/input/datetime-local": {
     "modified": "2019-07-06T19:59:07.845Z",
     "contributors": ["fuggy", "Brom95", "bad4iz"]
+  },
+  "conflicting/Web/HTML/Global_attributes/contenteditable": {
+    "modified": "2019-03-18T21:32:40.829Z",
+    "contributors": ["warsan"]
   },
   "conflicting/Web/HTTP/CORS": {
     "modified": "2019-07-16T07:11:05.759Z",
