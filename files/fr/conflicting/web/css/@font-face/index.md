@@ -1,7 +1,8 @@
 ---
 title: font-variant
-slug: Web/CSS/@font-face/font-variant
+slug: conflicting/Web/CSS/@font-face
 translation_of: Web/CSS/@font-face/font-variant
+original_slug: Web/CSS/@font-face/font-variant
 browser-compat: css.at-rules.font-face.font-variant
 ---
 {{CSSRef}}
